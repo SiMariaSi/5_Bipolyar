@@ -135,6 +135,12 @@ html {
 
 }
 
+.cvet{
+font-size: 36px;
+
+
+}
+
 li {
     list-style-type: none; 
     margin-bottom: 1em;
@@ -179,7 +185,7 @@ li span{
 .tropici > div{
     background: rgba(51, 50, 50, 0.95);
     color: beige;
-    padding: 60px;
+    padding: 30px;
     font-family: Georgia, serif;
   
     text-transform: none;
